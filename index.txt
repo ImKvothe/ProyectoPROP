@@ -1,5 +1,8 @@
-Source Domini conté el codi de les clases de domini y els tests
-
-Doc contiene la documentacion
-
-EXE contiene los ejecutables (tests) 
+Contiene los siguientes documentos:
+    - Diagrama de casos de uso en format PNG
+    - Descripcion de los diferentes casos de uso del diagrama
+    - Diagrama estatico de la capa de dominio en formato PNG
+    - Descripcion de las clases del diagrama de la capa de dominio
+    - Descripcion de las estructuras de dadtos y algoritmos utilizados
+    - Documento con la relacion de clases implementadas por miembro del equipo
+    - El archivo javadoc contiene la documentación del codigo creada con javadoc
