@@ -1,0 +1,5 @@
+Se han hecho unit test de todas las funciones de las clases, con un caso 
+extremo y uno normal.
+
+En cada clase test que no es una función hay comentados todas las funciones 
+de la clase que se están probando antes del código que le corresponde

@@ -1,0 +1,5 @@
+Source Domini conté el codi de les clases de domini y els tests
+
+Doc contiene la documentacion
+
+EXE contiene los ejecutables (tests) 
