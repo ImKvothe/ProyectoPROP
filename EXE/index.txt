@@ -1,0 +1,1 @@
+El archivo test contiene todos los test. Se pueden ejecutar desde IntelliJ
